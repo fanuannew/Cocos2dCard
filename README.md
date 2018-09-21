@@ -1,2 +1,2 @@
-# hello-world
-Hello world new project template.
+# Cocos2d Card demo
+demo demo
